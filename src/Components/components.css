@@ -1,0 +1,22 @@
+.uls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+li a{
+    
+    text-decoration: none;
+   
+}
+button{
+    height: 50px;
+    
+}
+.displays{
+    display:none
+}

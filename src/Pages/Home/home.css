@@ -1,0 +1,8 @@
+td img{
+width:150px;
+object-fit: contain;
+}
+table,td,tr,td,th{
+border:1px solid grey;
+border-collapse: collapse;
+}
